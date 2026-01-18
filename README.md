@@ -9,6 +9,12 @@ Este é um projeto Flutter que exibe uma interface básica com:
 - Imagem do mascote Dash centralizada
 - Fundo cinza claro
 
+## 🎥 Demonstração
+
+Veja o aplicativo em funcionamento:
+
+![Demonstração do My Dahatar App](my-dahatar-app.mov)
+
 ## 🚀 Como Executar
 
 ### Pré-requisitos
