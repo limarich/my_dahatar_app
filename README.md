@@ -13,7 +13,7 @@ Este é um projeto Flutter que exibe uma interface básica com:
 
 Veja o aplicativo em funcionamento:
 
-![Demonstração do My Dahatar App](my-dahatar-app.mov)
+![Demonstração do My Dahatar App]([my-dahatar-app.mov](https://github.com/limarich/my_dahatar_app/blob/main/my-dahatar-app.mov))
 
 ## 🚀 Como Executar
 
